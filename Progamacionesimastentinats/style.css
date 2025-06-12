@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(3, 22, 51);
+}
+.container{
+    text-align: center
+}
+.card {
+    border: 5px solid #b32222
+  }
